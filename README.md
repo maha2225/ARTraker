@@ -30,8 +30,8 @@ ARTraker is a full-stack application built to help healthcare providers track AR
 * **Frontend:** React, Redux Toolkit, Lucide-react icons
 * **Database:** PostgreSQL
 * **Deployment:** Render (supports auto-migrations and seeding)
-* **Authentication:** JWT-based auth (planned / optional)
-* **Styling:** Tailwind CSS / Chakra UI (depending on implementation)
+* **Authentication:** JWT-based auth 
+* **Styling:** Tailwind CSS
 
 ## Installation
 
