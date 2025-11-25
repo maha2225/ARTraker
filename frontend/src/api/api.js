@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { API_URL } from "../config.js";
 const API = axios.create({
-  baseURL: API_URL, 
+  baseURL: 'https://artraker.onrender.com', 
 });
 
 API.interceptors.request.use((req) => {
